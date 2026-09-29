@@ -141,7 +141,7 @@ export default function About() {
           </div>
           <MagneticButton
             as="a"
-            href="/Dev_AshishKushwaha.Resume.pdf"
+            href="/Ashish_Kushwaha_Software_Engineer.pdf"
             download
             className="hidden shrink-0 items-center gap-2 rounded-full border border-line px-6 py-3 text-sm text-ink hover:border-lime/60 md:flex"
           >
